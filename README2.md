@@ -36,9 +36,5 @@ This implementation uses simple loops instead of a priority queue.
 - Transportation systems
 
 ## Screenshots
-
-Add screenshots showing:
-
-- Weighted graph structure
-- Dijkstra output
-- Shortest path results
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)

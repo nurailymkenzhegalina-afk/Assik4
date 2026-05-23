@@ -24,7 +24,6 @@ The graph was extended to support weighted edges.
 
 ## Time Complexity
 
-:contentReference[oaicite:1]{index=1}
 
 This implementation uses simple loops instead of a priority queue.
 
